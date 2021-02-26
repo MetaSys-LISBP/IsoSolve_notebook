@@ -1,0 +1,22 @@
+name	value	sd# comment
+a	0.2533	0.02# this work (HSQC_data)
+b	0.2533	0.02# this work (HSQC_data)
+c	0.2475	0.02# this work (HSQC_data)
+d	0.244	0.02# this work (HSQC_data)
+e	0.5096	0.03# this work (TOCSY_data)
+f	0.4904	0.03# this work (TOCSY_data)
+g	0.116863820156435	0.01# Heuillet_2018
+h	0.354590873736187	0.01# Heuillet_2018
+i	0.387420534299891	0.01# Heuillet_2018
+j	0.141124771807486	0.01# Heuillet_2018
+k	0.4973	0.02# this work (HSQC_data)
+l	0.5027	0.02# this work (HSQC_data)
+m	0.496	0.03# Millard_2017
+n	0.504	0.03# Millard_2017
+o	0.258863779	0.01#this work (GC-MS_data)
+p	0.494753693	0.01#this work (GC-MS_data)
+q	0.246382528	0.01#this work (GC-MS_data)
+r	0.502	0.03# (Millard_2017)
+s	0.498	0.03# (Millard_2017)
+t	0.496	0.03# this work (TOCSY_data)
+u	0.504	0.03# this work (TOCSY_data)
