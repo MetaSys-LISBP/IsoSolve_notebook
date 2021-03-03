@@ -2,7 +2,9 @@
 IsoSolve is a computation framework to improve isotopic coverage and consolidate isotopic measurements by MS and/or NMR. IsoSolve is available from [this repository](https://github.com/MetaSys-LISBP/IsoSolve).
 
 IsoSolve can be used as a Python module that you can import directly, for instance in [Jupyter notebooks](https://test-jupyter.readthedocs.io/en/latest/install.html) or in your own software.
-We showcase IsoSolve usage with step-by-step examples in a Jupyter notebook distributed via this repository.
+We showcase IsoSolve usage with step-by-step examples in a Jupyter notebook distributed via this repository. We also distribute an HTML file showing the [notebook’s output after execution](https://htmlpreview.github.io/?https://github.com/MetaSys-LISBP/IsoSolve_notebook/blob/main/html/IsoSolve_notebook.html).
+
+# Installation and usage
 
 If not yet done, you can install Jupyter with:
 
