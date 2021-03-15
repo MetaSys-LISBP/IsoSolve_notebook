@@ -15,7 +15,7 @@ pip install --user jupyter
 Some dependencies are specific to our notebook, not to IsoSolve itself. If these dependencies are not already available on your system, they can be installed with:
 
 ```bash
-pip install --user seaborn matplotlib
+pip install --user isosolve seaborn matplotlib
 ```
 
 Download and unpack the notebook's [tarball](https://github.com/MetaSys-LISBP/IsoSolve_notebook/archive/main.tar.gz) and go in a shell to the notebook's directory.
